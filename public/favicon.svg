@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Rounded heart design representing Paidhu brand -->
+  <path d="M16 28.5S3 16.5 3 9.5a6.5 6.5 0 0 1 11-4.78 6.5 6.5 0 0 1 11 4.78c0 7-13 19-13 19z" fill="#662654" />
+  <!-- Elegant inner curve/heart glow -->
+  <path d="M16 26s-10-9.2-10-14.8c0-4.4 3.6-7.2 7-7.2a4.8 4.8 0 0 1 3 1.8 4.8 4.8 0 0 1 3-1.8c3.4 0 7 2.8 7 7.2C26 16.8 16 26 16 26z" fill="#ede7d7" opacity="0.3" />
+  <!-- Elegant brand accent letter 'P' in center -->
+  <text x="16" y="19" font-family="Outfit, sans-serif" font-size="12" font-weight="900" fill="#ede7d7" text-anchor="middle">P</text>
+</svg>
